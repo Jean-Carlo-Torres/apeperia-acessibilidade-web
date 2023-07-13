@@ -38,6 +38,10 @@
   transition: .2s ease-in;
 }
 
+.secaoDestaque-cta a{
+  text-decoration: none;
+}
+
 .secaoDestaque-cta:hover,
 .secaoDestaque-cta:focus {
   background: #fff;
