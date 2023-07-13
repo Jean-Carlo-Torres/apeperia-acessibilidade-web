@@ -1,6 +1,6 @@
 # Apeperia - aplicativos sob medida
 
-<p align="center">Nesse projeto feito durante o curso de <b>Acessibilidade Web</b> da <b>Alura</b>, onde eu desenvolvi um site fictício de uma Startap, utlizando <b>HTML, CSS e JAVSCRIPT</b>. Onde foi abordado os principais meios de deixar uma aplicação web mais acessível para pessoas PCD, principalmente quem tem problemas de visão e audição, com o auxílio do <b>NDVA</b> (leitor de tela) para o desenvolvimento.</p>
+<p align="center">Nesse projeto feito durante o curso de <b>Acessibilidade Web</b> da <b>Alura</b>, onde eu desenvolvi um site fictício de uma Startup, utlizando <b>HTML, CSS e JAVSCRIPT</b>. Onde foi abordado os principais meios de deixar uma aplicação web mais acessível para pessoas PCD, principalmente quem tem problemas de visão e audição, com o auxílio do <b>NDVA</b> (leitor de tela) para o desenvolvimento.</p>
 
 <h6 align="center"><a href="https://jean-carlo-torres.github.io/apeperia-acessibilidade-web/">**Link para testar o projeto**</a></h6>
 
