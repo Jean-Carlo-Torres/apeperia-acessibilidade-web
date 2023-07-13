@@ -2,6 +2,8 @@
 
 <p align="center">Nesse projeto feito durante o curso de <b>Acessibilidade Web</b> da <b>Alura</b>, onde eu desenvolvi um site fictício de uma Startap, utlizando <b>HTML, CSS e JAVSCRIPT</b>. Onde foi abordado os principais meios de deixar uma aplicação web mais acessível para pessoas PCD, principalmente quem tem problemas de visão e audição, com o auxílio do <b>NDVA</b> (leitor de tela) para o desenvolvimento.</p>
 
+<h6 align="center"><a href="https://jean-carlo-torres.github.io/apeperia-acessibilidade-web/">**Link para testar o projeto**</a></h6>
+
 
 <img src="./github/1_banner.jpg">
 <img src="./github/2_sobre.jpg">
@@ -11,7 +13,7 @@
 <img src="./github/6_instituicao.jpg">
 
 
-<h2>Tópicos abordados durante esse projeto:<h2>
+<h2>Tópicos abordados durante esse projeto:</h2>
 <ul>
 <li>Melhorando o site para usuários de leitor de tela.</li>
 <li>Entendendo como uma pessoa cega usa a internet.</li>
